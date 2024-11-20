@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Volumes/data/Code/C#/FindMe App/FindMe App/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Volumes/data/Code/C#/FindMe App/FindMe App/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/FindMe App.app

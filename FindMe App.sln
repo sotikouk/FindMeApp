@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMe App", "FindMe App\FindMe App.csproj", "{69050B49-BE2B-45B1-BAF6-EA254E680326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69050B49-BE2B-45B1-BAF6-EA254E680326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69050B49-BE2B-45B1-BAF6-EA254E680326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69050B49-BE2B-45B1-BAF6-EA254E680326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69050B49-BE2B-45B1-BAF6-EA254E680326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

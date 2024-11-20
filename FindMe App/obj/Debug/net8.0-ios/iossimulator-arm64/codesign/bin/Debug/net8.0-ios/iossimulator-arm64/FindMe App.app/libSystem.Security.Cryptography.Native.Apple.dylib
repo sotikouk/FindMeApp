@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Volumes/data/Code/C#/FindMe App/FindMe App/bin/Debug/net8.0-ios/iossimulator-arm64/FindMe App.app/libSystem.Security.Cryptography.Native.Apple.dylib
